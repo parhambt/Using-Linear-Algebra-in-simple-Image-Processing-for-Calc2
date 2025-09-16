@@ -1,2 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/parhambt/Using-Linear-Algebra-in-simple-Image-Processing-for-Calc2/blob/master/Linear%Regression%20/Linear%Regression.ipynb](https://colab.research.google.com/github/parhambt/Using-Linear-Algebra-in-simple-Image-Processing-for-Calc2/blob/master/Linear%20Regression/Linear%20Regrression.ipynb
-))
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parhambt/Using-Linear-Algebra-in-simple-Image-Processing-for-Calc2/blob/master/Linear%20Regression/Linear%20Regrression.ipynb)
